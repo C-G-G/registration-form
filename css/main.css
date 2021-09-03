@@ -13,11 +13,18 @@ h1 {
   border-bottom: 1px solid black;
 }
 
+legend {
+  padding-right: 1rem;
+}
 
 @media only screen and (min-width: 60em) {
-/* 
+/*
   .unit-l-1-2 {
     width: 40%;
   } */
+
+  .space-right {
+    padding-right: .5rem;
+  }
 
 }
