@@ -18,13 +18,13 @@ legend {
 }
 
 @media only screen and (min-width: 60em) {
-/*
-  .unit-l-1-2 {
-    width: 40%;
-  } */
 
   .space-right {
     padding-right: .5rem;
+  }
+
+  .space-left {
+    padding-left: .5rem;
   }
 
 }
